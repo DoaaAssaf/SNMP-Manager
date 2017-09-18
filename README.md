@@ -1,7 +1,8 @@
 # SNMP-Manager
 snmp protocol manager
-This simple "linux-based" desktop application with GUI like other management tools, PowerSNMP for example.
-I focused  on the manager side only not the agen.
+
+Simple "linux-based" desktop application with GUI 
+like any other management tools, PowerSNMP for example and focus on the manager side only. 
 
 The application GUI  handle the following: 
 
@@ -22,7 +23,3 @@ The application GUI  handle the following:
 8- Set  the selected object value via sending a SetRequest pdu to the target agent.
 
 9- Handle and show Trap messages whenever it happens. 
-
-
-
- 
