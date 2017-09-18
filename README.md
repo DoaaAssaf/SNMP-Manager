@@ -2,7 +2,8 @@
 snmp protocol manager
 
 Simple "linux-based" desktop application with GUI 
-like any other management tools, PowerSNMP for example and focus on the manager side only. 
+like any other management tool: PowerSNMP for example
+it is focus on the manager side only. 
 
 The application GUI  handle the following: 
 
@@ -14,9 +15,9 @@ The application GUI  handle the following:
 
 4- Show a list of common  MIB objects to be managed. 
 
-5- perform scanning the network and show up hosts
+5- perform network scanning and show up hosts.
 
-6- show all MIB tree
+6- show all MIB tree.
 
 7- Get the selected object value via sending a GetRequest pdu to the target agent. Then display the response.
 
